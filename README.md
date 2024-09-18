@@ -1,2 +1,0 @@
-# DEMO-REPO
-To Practice
