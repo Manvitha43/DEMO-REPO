@@ -10,3 +10,5 @@ void loop()
   int result=digitalRead(ir);
   Serial.println(result);
 }
+manvitha
+saranyaa
